@@ -132,10 +132,3 @@ result = {
 }
 
 print(to_native(result))
-print('''Answers to the questions:
-1) 0.00000
-2) 0.00000
-3) 0.00153
-4) 0.00600
-5) expanded
-6) expanded''')
